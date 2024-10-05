@@ -1,0 +1,1 @@
+<x-projects.card :$project />
